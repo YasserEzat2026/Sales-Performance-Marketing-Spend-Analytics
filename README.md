@@ -1,4 +1,6 @@
 # Sales Performance & Marketing Spend Analytics
+## Live Interactive Dashboard
+👉 [Click Here to View the Live Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWU1NGNiMTctOWY2My00MDFiLWI3MzUtZDRjN2U0MmE1MWRlIiwidCI6Ijk5YTA3NWJmLTAwZDctNDM4OS04ZDE5LWRmMGYxYzQ3ZDk4MCIsImMiOjh9)
 
 ## Project Overview
 An advanced Business Intelligence solution designed to analyze and evaluate corporate sales revenues in direct relation to monthly marketing investments. This interactive dashboard assists key stakeholders and the sales team in identifying high-performing regions, evaluating team contributions, and optimizing marketing budget distribution to drive conversion rates.
@@ -14,6 +16,4 @@ An advanced Business Intelligence solution designed to analyze and evaluate corp
 * **Data Analysis & Calculations:** Power BI Platform utilizing calculated columns and core aggregation metrics.
 * **Interactive Visualization:** Power BI Service for cloud collaboration and distribution.
 
-## Live Interactive Dashboard
-👉 [Click Here to View the Live Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWU1NGNiMTctOWY2My00MDFiLWI3MzUtZDRjN2U0MmE1MWRlIiwidCI6Ijk5YTA3NWJmLTAwZDctNDM4OS04ZDE5LWRmMGYxYzQ3ZDk4MCIsImMiOjh9)
 
